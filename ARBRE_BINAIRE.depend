@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1638605938 source:c:\users\hp15\documents\arbre_binaire\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ARBRE.h"
+
+1638605458 c:\users\hp15\documents\arbre_binaire\arbre.h
+
+1638605915 source:c:\users\hp15\documents\arbre_binaire\arbre.c
+	<stdio.h>
+	"ARBRE.h"
+
